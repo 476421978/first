@@ -1,7 +1,6 @@
 # first
 主要使用了饿了么Element框架，axios请求后台数据,vue-router嵌套路由,集成环信IM可以单聊
 > A Vue.js project
-
 ## Build Setup
 
 ``` bash
